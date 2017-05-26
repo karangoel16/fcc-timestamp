@@ -1,0 +1,18 @@
+{
+  "name": "fcc-code",
+  "version": "1.0.0",
+  "description": "This is default api for fcc projects",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "karan goel",
+  "license": "ISC"
+}
